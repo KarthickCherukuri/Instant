@@ -1,0 +1,11 @@
+.suggestions-list {
+  margin: 0;
+  margin-bottom: 10px;
+}
+.suggestions-list:hover {
+  background-color: aliceblue;
+}
+.suggestion-p {
+  margin: 0;
+  padding: 0;
+}

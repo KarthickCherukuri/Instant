@@ -12,19 +12,13 @@ nav {
   height: 47px;
   width: 100vw;
   display: flex;
-  background-color: red;
+ 
   justify-content: space-around;
   align-items: center;
+  background-color: rgb(28, 28, 115);
 }
 
-.email-input {
-  border-radius: 10px;
-  background-color: rgb(240, 240, 240, 0.6);
-  border: none;
-  outline: none;
-  height: 34px;
-  width: 300px;
-}
+
 
 .name-input {
   border-radius: 10px;
@@ -38,9 +32,7 @@ nav {
 .name-input:focus + .name-suggestions {
   display: block;
 }
-.email-input:focus + .email-suggestions {
-  display: block;
-}
+
 
 button {
   cursor: pointer;

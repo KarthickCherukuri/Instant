@@ -1,6 +1,4 @@
-//ios 781932930127-ni1s6ephqd6ig606dmu4nvthuj8nearh.apps.googleusercontent.com
-//android 781932930127-rsif42103r3h4ubcs1ntama1sj43bmec.apps.googleusercontent.com
-//expo 781932930127-26f63130e7itl9ealgbcpmcqvoud0dvf.apps.googleusercontent.com
+
 import {
   Button,
   Text,

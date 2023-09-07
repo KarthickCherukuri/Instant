@@ -1,0 +1,14 @@
+.userfriend {
+  width: 100%;
+}
+.userFriendsList {
+  margin: 0;
+}
+
+.profile-pic-friend {
+  border-radius: 100px;
+  outline: 3px solid black;
+  transition: 2s;
+  outline-offset: 2px;
+  height: 40px;
+}
